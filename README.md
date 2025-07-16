@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pooja</h1>
+<h1 align="center">Hi, I'm Pooja</h1>
 <h3 align="center">Aspiring Data Scientist | ML Engineer in Progress | AI Enthusiast</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@ I'm an **aspiring Data Scientist** with a passion for turning data into actionab
 
 ---
 
-## 🧠 What I’m Working On
+## What I’m Working On
 
 - Building **ML/DL projects** using Python, Scikit-learn, TensorFlow, and PyTorch.
 - Practicing **EDA** and visualization with **Pandas, Matplotlib, Seaborn, Plotly**.
@@ -23,7 +23,7 @@ I'm an **aspiring Data Scientist** with a passion for turning data into actionab
 
 ---
 
-## 🧭 My Roadmaps
+## My Roadmaps
 
 ### Data Science Roadmap (6 Levels)
 
